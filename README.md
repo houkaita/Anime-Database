@@ -7,6 +7,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width=50>
 </div>
 
+## Como rodar
+
+  Faça git clone do projeto e insira 
+  
+  ```bash
+  npm start
+  ```
+  
+  No terminal
+
 ## Sobre
 
 TheAnimeDatabse é um site para pesquisa de animes. A ideia foi tirada do canal do youtube Tyler Potts que ensina como criar coisas básicas como uma barra de pesquisa, cosumo e API e afins.
